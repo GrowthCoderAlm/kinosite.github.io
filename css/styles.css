@@ -113,7 +113,7 @@
 }
 
 .hero{
-    background-image: url("imgs/assortment-cinema-supplies.jpg");
+    background-image: url("../imgs/assortment-cinema-supplies.jpg");
     padding: 200px 0 182px;
     color: var(--color-text);
     background-size: cover;
